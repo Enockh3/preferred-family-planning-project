@@ -55,6 +55,6 @@ To handle open-text responses on reasons for stopping contraceptive use, the pro
 
 **Habimana Enock**  
 Data Analyst | Data Science Professional  
-[LinkedIn](https://www.linkedin.com/in/enockh) | habimanaenock15@gmail.com
+
 
 
