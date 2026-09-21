@@ -47,9 +47,8 @@ To handle open-text responses on reasons for stopping contraceptive use, the pro
 
 ## 💡 Future Work
 
-- Deploy interactive dashboards using Streamlit or Flask.
+- Deploy interactive dashboards using Streamlit or Power BI.
 - Extend NLP analysis to other health-related open-text survey data.
-- Integrate local language (e.g., Kinyarwanda) classification using fine-tuned models.
 
 ## 👤 Author
 
